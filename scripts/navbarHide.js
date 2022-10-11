@@ -35,5 +35,6 @@ function DFS(node) {
         visited.add(n);
         s.push(n);
       });
+    console.log("hello");
   }
 }
